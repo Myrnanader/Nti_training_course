@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444663101372",
+    "project_id": "flash-notes-f9d53",
+    "storage_bucket": "flash-notes-f9d53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444663101372:android:9d2233cfc29e003e6f9db9",
+        "android_client_info": {
+          "package_name": "com.example.flash_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC87wcym0BITA1dcg4ijEZlgg-Kkwc8H7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
