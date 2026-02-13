@@ -7,6 +7,7 @@ The training started from Dart fundamentals and progressed step by step into bui
 This repo reflects both my technical growth and hands-on experience in real app development.
 
 📚 What I Learned
+
 🟢 Dart Fundamentals
 
 Variables & Data Types
